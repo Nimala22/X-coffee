@@ -7,6 +7,23 @@
     margin: auto !important;
   }
 
+  /* 03. morning-section  */
+  .morning-section{   
+    padding: 1rem;
+  }
+  .morning-content{    
+    padding-top: 1rem !important;
+  }
+  .morning-section .carousel-item{    
+    width: 100% !important;
+    height: 800px;
+  }  
+  .morning-section .carousel-item img{
+    height: 100%;
+    width: 100%;
+  }
+
+  
 
 
 
@@ -27,6 +44,8 @@
     padding-top: 35% !important; 
     margin: auto !important;
   }
+
+  
 
 
 
@@ -49,6 +68,16 @@
     width: 60% !important;
     padding-top: 35% !important; 
     margin: auto !important;
+  }
+
+  /* 03. morning-section  */  
+  .morning-section .carousel-item{       
+    width: 100% !important;
+    height: 700px;
+  }  
+  .morning-section .carousel-item img{
+    height: 100%;
+    width: 100%;
   }
 
 
@@ -76,6 +105,16 @@
     margin: auto !important;
   }
 
+  /* 03. morning-section  */  
+  .morning-section .carousel-item{    
+    width: 100% !important;
+    height: 400px !important;
+  }  
+  .morning-section .carousel-item img{
+    height: 100%;
+    width: 100%;
+  }
+
 
 
 
@@ -97,6 +136,8 @@
     padding-top: 40% !important; 
     margin: auto !important;
   }
+
+  
 
 
 

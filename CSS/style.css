@@ -276,3 +276,30 @@ header form .search-btn{
   justify-content: center;
   margin-left: 2rem;
 }
+
+/* 
+==========================================
+      02. hero-area section css
+==========================================
+*/
+.morning-section{   
+  padding: 2rem 1.5rem;
+}
+
+.morning-content{
+  padding-top: 8rem;
+}
+
+.morning-section p{
+  color: var(--out-color);
+}
+
+.morning-section .carousel-item{
+  width: 100%;
+  height: 800px;
+}
+
+.morning-section .carousel-item img{
+  height: 100%;
+  width: 100%;
+}
