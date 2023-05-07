@@ -1,24 +1,106 @@
 @media (max-width: 1024px) {
 
+  /* 02. hero-area  */  
+  .content-center{    
+    width: 60% !important;
+    padding-top: 35% !important; 
+    margin: auto !important;
+  }
+
+
+
+
+
 }
+
+
+
 
 
 
 
 @media (max-width: 992px) {
 
+  /* 02. hero-area  */  
+  .content-center{    
+    width: 60% !important;
+    padding-top: 35% !important; 
+    margin: auto !important;
+  }
+
+
+
+
+
+
+
 }
+
+
+
 
 
 
 
 @media (max-width: 768px) {
 
+  /* 02. hero-area  */  
+  .content-center{    
+    width: 60% !important;
+    padding-top: 35% !important; 
+    margin: auto !important;
+  }
+
+
+
+
+
+
+
+
 }
 
 
 
 
+
+
+
+
 @media (max-width: 600px) {
+
+  /* 02. hero-area  */  
+  .content-center{
+    width: 90% !important;
+    padding-top: 40% !important; 
+    margin: auto !important;
+  }
+
+
+
+
+
   
+
+}
+
+
+
+
+
+
+@media (max-width: 375px){
+
+  /* 02. hero-area  */  
+  .content-center{  
+    width: 90% !important;
+    padding-top: 40% !important; 
+    margin: auto !important;
+  }
+
+
+
+
+
+
 }
