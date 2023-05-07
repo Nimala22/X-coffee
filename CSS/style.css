@@ -173,13 +173,20 @@ p:hover{
   text-shadow: 2px 2px 5px var(--gray-color);
 }
 
-.section-header{  
-  margin: 6rem auto 2rem;
+.section-header{   
+  margin: 6rem 2rem;
 }
 
 .section-header h2,
 .section-header p{
-  text-align: center;  
+  text-align: center; 
+  margin: auto; 
+}
+
+.flex-item{
+  display: flex;
+  align-items: center;
+  gap: 30px;
 }
 
 /* 
@@ -279,11 +286,11 @@ header form .search-btn{
 
 /* 
 ==========================================
-      02. hero-area section css
+      03. morning section css
 ==========================================
 */
-.morning-section{   
-  padding: 2rem 1.5rem;
+.morning-section{     
+  padding: 2rem 1.5rem 0 !important;
 }
 
 .morning-content{
@@ -302,4 +309,26 @@ header form .search-btn{
 .morning-section .carousel-item img{
   height: 100%;
   width: 100%;
+}
+/* 
+==========================================
+    04. product-brand section css
+==========================================
+*/
+.product-brand .brand-img{  
+  width: 300px;
+  height: 280px;  
+  padding: .5rem;
+  box-shadow: 5px 5px 8px var(--gray-color);
+  border-radius: 5px;
+  transition: .4s;
+}
+
+.product-brand .brand-img:hover{  
+  box-shadow: 10px 10px 100px var(--secondary-color);
+}
+
+.product-brand .brand-img img{  
+  width: 100%;
+  height: 100%;
 }
