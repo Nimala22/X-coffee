@@ -45,7 +45,8 @@ img{
   --white-color: #ffffff;
   --black-color: #000000;
   --text-color: #18122B;
-  --gray-color: #8d8686;
+  --gray-color: #cac2c2;
+  --header-bg: #d99696;
   --frist-font: 'Mukta', sans-serif;
   --second-font: 'Heebo', sans-serif;
 }
@@ -183,3 +184,73 @@ p:hover{
 .section-header p{
   text-align: center;  
 }
+
+/* 
+==========================================
+        01. header section css
+==========================================
+*/
+
+header{
+  background-color: var(--header-bg);  
+  padding: 1.5rem 0;
+}
+
+.navbar-brand{
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--secondary-color); 
+  background-color: var(--white-color); 
+  border-radius: 30rem;
+  padding: 8px 30px;
+  box-shadow: 5px 5px 12px var(--text-color);
+  transition: .5s;
+}
+
+.navbar-brand:hover{
+  color: var(--third-color);    
+  box-shadow: 10px 15px 15px var(--primary-color);
+}
+
+.nav-link{
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--white-color);  
+  margin: 5px;
+}
+
+header form input{
+  color: var(--out-color);
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 30rem;
+  outline: 0;
+  border: none;
+  width: 100%;
+  transition: .5s;
+}
+
+header form input:hover{
+  box-shadow: 5px 10px 12px var(--primary-color);
+}
+
+header form .search-btn{
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--secondary-color);
+  padding: 7px 20px;
+  margin-left: 1rem;
+  border: none;
+  border-radius: 30rem;
+  box-shadow: 6px 4px 9px var(--primary-color);
+  transition: .5s;
+}
+
+.search-btn:hover{
+  color: var(--out-color);
+  background: var(--white-color);
+  box-shadow: none;
+}
+
