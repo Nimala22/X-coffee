@@ -425,3 +425,50 @@ header form .search-btn{
   width: 100%;
   height: auto;
 }
+/* 
+==========================================
+    08. services-section css
+==========================================
+*/
+.services-section .card{
+  background: #ddd;
+  margin: auto;
+  transition: .5s;
+}
+.services-section .card:hover{
+  box-shadow: 10px 12px 50px var(--primary-color);
+}
+.services-section h5{
+  color: var(--primary-color);
+  font-size: 25px;
+  font-weight: 600;
+  transition: .5s;
+}
+
+.services-section .card:hover  h5{
+  color: var(--out-color);
+}
+
+.services-section p{
+  color: var(--black-color);
+  line-height: 1.2;
+}
+
+.services-section input{
+  font-size: 18px;
+  font-weight: bold;
+  padding-left: 1rem;
+  border: 1px solid var(--gray-color);
+}
+
+.services-section .cup-price{
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--secondary-color);
+}
+
+.services-section .cup-price del{
+  font-size: 16px;
+  color: var(--black-color);
+}
+
