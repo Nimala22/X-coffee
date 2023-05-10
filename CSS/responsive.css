@@ -28,6 +28,18 @@
     width: 100%;
   }
 
+  /* product section */
+  .product-section .card{
+    width: 90%;
+    margin: auto;
+  }
+  .product-section .card a img{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+  }
+
+
 
 
   
