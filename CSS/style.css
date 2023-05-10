@@ -374,3 +374,54 @@ header form .search-btn{
 .product-section button{
   box-shadow: 3px 4px 10px var(--black-color);
 }
+/* 
+==========================================
+    06. our machine section css
+==========================================
+*/
+.machine-section .carousel-item img{  
+  padding: 1rem;
+  width: 500px;
+  height: 650px;
+  margin-top: 5rem;  
+}
+
+.machine-section .carousel-item h5{
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--white-color);  
+  background: #00000041;
+  padding: 5px 0;  
+}
+
+.machine-section .carousel-item .price-sold{
+  color: var(--secondary-color);
+  font-weight: 700;
+  justify-content: space-around;
+}
+
+.machine-section .carousel-item .price-sold strong{
+  color: var(--white-color);
+  font-size: 25px;
+  font-weight: 900;
+  background: var(--black-color);
+  padding: .5rem;
+  border-radius: 30rem;
+}
+
+.machine-section .carousel-item p{
+  font-weight: bolder;
+  color: var(--third-color); 
+  background: var(--white-color); 
+}
+
+.machine-section a{
+  width: 550px;
+  height: 350px;
+}
+
+.machine-section a img{  
+  padding: 1rem;
+  width: 100%;
+  height: auto;
+}
