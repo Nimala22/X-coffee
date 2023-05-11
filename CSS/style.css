@@ -173,7 +173,7 @@ p:hover{
   text-shadow: 2px 2px 5px var(--gray-color);
 }
 
-.section-header{   
+.section-header{  
   margin: 6rem 2rem;
 }
 
@@ -472,3 +472,13 @@ header form .search-btn{
   color: var(--black-color);
 }
 
+/* 
+==========================================
+    09. coffee maker section css
+==========================================
+*/
+.coffee-maker .carousel-item img{
+  margin-top: 2rem;
+  width: 850px;
+  height: 680px;
+}

@@ -57,6 +57,25 @@
     width: 90% !important;
   }
 
+  /* advantage of coffee section   */
+  .advantage-coffee{
+    width: 90%;  
+    margin: auto;    
+  }  
+  .advantage-coffee a{      
+    height: 680px;
+    width: 90%;      
+  }
+  .advantage-coffee a img{
+    height: 100%;
+    width: 100%;
+  }
+
+  /* coffee maker section */
+  .coffee-maker .carousel-item img{     
+    width: 850px;
+    height: 670px !important;
+  }
 
 
   
@@ -102,6 +121,26 @@
   }
   .machine-section button.main-btn{
     width: 90% !important;
+  }
+
+  /* advantage of coffee section   */
+  .advantage-coffee{
+    width: 90%; 
+    margin: auto;     
+  }  
+  .advantage-coffee a {      
+    height: 550px;
+    width: 90%;         
+  }
+  .advantage-coffee a img{
+    height: 100%;
+    width: 100%;
+  }
+
+  /* coffee maker section */
+  .coffee-maker .carousel-item img{     
+    width: 800px;
+    height: 650px !important;
   }
 
   
@@ -173,6 +212,25 @@
     width: 90% !important;
   }
 
+  /* advantage of coffee section   */
+  .advantage-coffee{
+    width: 90%;      
+  }  
+  .advantage-coffee a{      
+    height: 500px;
+    width: 90%;      
+  }
+  .advantage-coffee a img{
+    height: 100%;
+    width: 100%;
+  }
+
+  /* coffee maker section */
+  .coffee-maker .carousel-item img{     
+    width: 700px;
+    height: 600px !important;
+  }
+
 
 
 
@@ -219,6 +277,24 @@
     font-size: 2rem;
   }
 
+  /* advantage of coffee section   */
+  .advantage-coffee{
+    width: 90%;      
+  }  
+  .advantage-coffee a{      
+    height: 480px;
+    width: 90%;      
+  }
+  .advantage-coffee a img{
+    height: 100%;
+    width: 100%;
+  }
+
+  /* coffee maker section */
+  .coffee-maker .carousel-item img{     
+    width: 500px;
+    height: 480px !important;
+  }
 
 
 
@@ -240,6 +316,25 @@
     width: 90% !important;
     padding-top: 40% !important; 
     margin: auto !important;
+  }
+
+  /* advantage of coffee section   */
+  .advantage-coffee{
+    width: 90%;      
+  }  
+  .advantage-coffee a{      
+    height: 450px;
+    width: 90%;      
+  }
+  .advantage-coffee a img{
+    height: 100%;
+    width: 100%;
+  }
+
+  /* coffee maker section */
+  .coffee-maker .carousel-item img{     
+    width: 450px;
+    height: 400px !important;
   }
 
   
