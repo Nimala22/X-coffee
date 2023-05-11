@@ -173,7 +173,7 @@ p:hover{
   text-shadow: 2px 2px 5px var(--gray-color);
 }
 
-.section-header{  
+.section-header{    
   margin: 6rem 2rem;
 }
 
@@ -482,3 +482,54 @@ header form .search-btn{
   width: 850px;
   height: 680px;
 }
+/* 
+==========================================
+      10. order section css
+==========================================
+*/
+.order-section form{  
+  margin: .5rem;
+  padding: 1rem;
+  background: #fadede;
+  border-radius: 10px;
+  box-shadow: 15px 16px 30px var(--gray-color);
+  height: 100%;
+  width: auto;  
+}
+
+.order-section form label{
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--third-color); 
+}
+
+.order-section form input{
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--secondary-color);
+  background: var(--white-color);
+  padding-left: 15px;
+  width: 95%;
+  border: none;
+  outline: none;
+  box-shadow: 4px 5px 50px var(--white-color);  
+  margin-bottom: 10px;
+}
+
+.from-btn label{    
+  margin: 1rem auto; 
+}
+
+.from-btn input{
+  color: var(--out-color) !important;
+  width: 150px !important;
+  margin: 1rem;
+  padding: .5rem;
+  background: transparent!important;
+  border-radius: 30rem;
+  box-shadow: 5px 5px 20px var(--secondary-color) !important;
+}
+
+
+
+
