@@ -1,4 +1,7 @@
 @media (max-width: 1024px) {
+  body h1{
+    font-size: 2rem;
+  }
 
   /* deafult for section header */
   .section-header{   
@@ -77,6 +80,12 @@
     height: 670px !important;
   }
 
+  /* branch section */
+  .branch-section .carousel-item img{
+    height: 680px;
+    width: 550px;
+  }
+
 
   
 
@@ -92,6 +101,10 @@
 
 
 @media (max-width: 992px) { 
+  body h1{
+    font-size: 1.5rem;
+  }
+
   
   /* deafult for section header */
   .section-header{   
@@ -143,6 +156,12 @@
     height: 650px !important;
   }
 
+  /* branch section */
+  .branch-section .carousel-item img{
+    height: 580px !important;
+    width: 530px !important;
+  }
+
   
 
 
@@ -160,6 +179,10 @@
 
 
 @media (max-width: 768px) { 
+  body h1{
+    font-size: 1.5rem;
+  }
+
 
   /* deafult for section header */
   .section-header{   
@@ -231,6 +254,13 @@
     height: 600px !important;
   }
 
+  /* branch section */
+  .branch-section .carousel-item img{
+    height: 500px !important;
+    width: 530px !important;
+  }
+
+
 
 
 
@@ -248,6 +278,10 @@
 
 
 @media (max-width: 600px) {
+  body h1{
+    font-size: 1.5rem;
+  }
+
 
   /* deafult for section header */
   .section-header{   
@@ -294,6 +328,12 @@
   .coffee-maker .carousel-item img{     
     width: 500px;
     height: 480px !important;
+  }  
+
+  /* branch section */
+  .branch-section .carousel-item img{
+    height: 500px !important;
+    width: 500px !important;
   }
 
 
@@ -309,7 +349,6 @@
 
 
 @media (max-width: 375px){
-
   
   /* 02. hero-area  */  
   .content-center{  
@@ -335,6 +374,12 @@
   .coffee-maker .carousel-item img{     
     width: 450px;
     height: 400px !important;
+  }
+
+  /* branch section */
+  .branch-section .carousel-item img{
+    height: 400px !important;
+    width: 400px !important;
   }
 
   

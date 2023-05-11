@@ -530,6 +530,13 @@ header form .search-btn{
   box-shadow: 5px 5px 20px var(--secondary-color) !important;
 }
 
-
-
+/* 
+==========================================
+      11. Branch section css
+==========================================
+*/
+.branch-section .carousel-item img{
+  height: 680px;
+  width: 550px;
+}
 
