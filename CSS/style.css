@@ -539,4 +539,31 @@ header form .search-btn{
   height: 680px;
   width: 550px;
 }
+/* 
+==========================================
+      12. blog section css
+==========================================
+*/
+.blogs-section .accordion{
+  width: 100%;
+  background: transparent;
+  padding: 1rem;
+  box-shadow: 10px 14px 50px var(--black-color);
+  border-radius: 10px;
+  margin-top: 8rem;
+}
 
+.blogs-section .main-btn{
+  width: 100% !important;
+  margin: 5rem auto;
+}
+
+.blogs-section .carousel-item{
+  height: 800px !important;
+  width: 750px;  
+}
+
+.blogs-section .carousel-item img{
+  height: 100%;
+  width: 100%;
+}
