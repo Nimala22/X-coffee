@@ -630,3 +630,31 @@ header form .search-btn{
   cursor: pointer;
   transform: rotate(360deg);
 }
+/* 
+==========================================
+      14. contact section css
+==========================================
+*/
+.contact-section .social-icons{
+  width: 90%;
+  margin: auto;
+}
+
+.contact-section a img{
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.contact-section .social-icons i{
+  font-size: 50px;
+  color: var(--white-color);
+  text-shadow: 3px 5px 29px var(--gray-color);
+  margin: 20px 30px;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.contact-section .social-icons i:hover{
+  color: var(--black-color);
+  text-shadow: 3px 5px 29px var(--out-color);
+}
