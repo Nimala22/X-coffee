@@ -100,6 +100,11 @@
     margin: auto;
   }
 
+  /* re-view section */
+  .review-section .card{
+    width: 90% !important;
+    margin: auto !important;
+  }
 
   
 
@@ -197,6 +202,13 @@
     width: 600px !important;    
     margin: auto;
   }
+
+   /* re-view section */
+   .review-section .card{
+    width: 90% !important;
+    margin: auto !important;
+  }
+
 
   
 
@@ -305,6 +317,13 @@
     margin: auto;
   }
 
+   /* re-view section */
+   .review-section .card{
+    width: 90% !important;
+    margin: auto !important;
+  }
+
+
   
   
 
@@ -385,6 +404,12 @@
     width: 500px !important;
   }
 
+   /* re-view section */
+   .review-section .card{
+    width: 90% !important;
+    margin: auto !important;
+  }
+
  
   
 
@@ -436,10 +461,17 @@
   /* blog section */
   .blogs-section .carousel-item img{     
     height: 370px !important;
-    width: 100%;
+    width: 90% !important;
     margin: auto;
   }
   
+
+   /* re-view section */
+   .review-section .card{
+    width: 90% !important;
+    margin: auto !important;
+  }
+
    
   
 

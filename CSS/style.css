@@ -567,3 +567,66 @@ header form .search-btn{
   height: 100%;
   width: 100%;
 }
+/* 
+==========================================
+      13. review section css
+==========================================
+*/
+.review-section{
+  width: 90%;
+  margin: auto;
+}
+
+.review-section .card{
+  width: 23rem !important;
+  margin: 1rem;
+  box-shadow: 15px 15px 20px var(--black-color);
+  border-radius: 30px;
+  transition: .5s;
+}
+
+.review-section .card:hover{
+  box-shadow: 15px 15px 80px var(--out-color);
+}
+
+.review-section .card img{
+  width: 100%;
+  height: 270px;
+  border-radius: 30px !important;
+}
+
+.review-section .card h4{
+  text-align: center;
+  text-shadow: 3px 4px 6px var(--gray-color);
+  transition: .5s;
+}
+
+.review-section .card:hover h4{
+  color: var(--secondary-color);
+}
+
+.review-section .card .stars i{
+  font-size: 17px;
+  color: red;
+  padding: 6px 10px;   
+}
+
+.review-section .card .social-icons {  
+  padding: .5rem;
+  margin: .5rem;
+}
+
+.review-section .card .social-icons i{
+  font-size: 25px;
+  color: var(--secondary-color);
+  margin: 0 7px;
+  transition: .5s;
+}
+
+.review-section .card .social-icons i:hover{
+  font-size: 30px;
+  color: var(--black-color);
+  text-shadow: 5px 5px 25px var(--out-color);
+  cursor: pointer;
+  transform: rotate(360deg);
+}
