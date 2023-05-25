@@ -106,6 +106,17 @@
     margin: auto !important;
   }
 
+  /* contact-section  */
+  .contact-section a{
+    height: 500px !important;
+    width: 600px !important;
+  }
+  .contact-section a img{
+    width: 100% !important;
+    height: 100% !important;
+    margin: auto;
+  }
+
   
 
 
@@ -209,7 +220,14 @@
     margin: auto !important;
   }
 
-
+  /* footer section */
+  footer{
+    width: 90%;
+    margin: auto;
+  }  
+  footer .footer-content .content-1 {
+    display: block;
+  }
   
 
   
@@ -323,6 +341,17 @@
     margin: auto !important;
   }
 
+  /* contact-section  */
+  .contact-section a{
+    height: 500px !important;
+    width: 600px !important;
+  }
+  .contact-section a img{
+    width: 100% !important;
+    height: 100% !important;
+    margin: auto;
+  }
+
 
   
   
@@ -410,7 +439,16 @@
     margin: auto !important;
   }
 
- 
+ /* contact-section  */
+  .contact-section a{
+    height: 500px !important;
+    width: 600px !important;
+  }
+  .contact-section a img{
+    width: 100% !important;
+    height: 100% !important;
+    margin: auto;
+  }
   
 
 
@@ -470,6 +508,16 @@
    .review-section .card{
     width: 90% !important;
     margin: auto !important;
+  }
+  /* contact-section  */
+  .contact-section a{
+    height: 500px !important;
+    width: 600px !important;
+  }
+  .contact-section a img{
+    width: 100% !important;
+    height: 100% !important;
+    margin: auto;
   }
 
    
